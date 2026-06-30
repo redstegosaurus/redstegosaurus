@@ -3,11 +3,7 @@
 
 
 ## 🚀 About Me
-~Computer Engineering Student | Aspiring Space Systems Engineer<br>~Passionate about the languages which power space missions | C++, Python, and Embedded Systems<br>~Currently developing and  programming a 3-DOF robotic arm using Arduino and custom 3D-Printed components<br>~Focusing on precision motion control and hardware-software integration<br>~Contact: redstego@protonmail.com<br>
-
-## 🛠 Skills
-Javascript, HTML, CSS, C++, C#, Java, Python, 3D Modeling, 3D Design, OrCad, SolidWorks, Blender, Circuit Design
-
+~Computer Engineering Student | Aspiring Space Systems Engineer<br>~Passionate about the languages which power space missions | C++, Python, and Embedded Systems<br>~Currently developing and  programming a 3-DOF robotic arm using Arduino and custom 3D-Printed components<br>~Focusing on precision motion control and hardware-software integration<br>
 
 ## Badges
 

@@ -1,5 +1,5 @@
 
-![Logo]("Redstego-profile-banner.svg")
+![Logo](Redstego-profile-banner.svg)
 
 
 ## 🚀 About Me

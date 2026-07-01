@@ -11,5 +11,5 @@
 
 ## Feedback
 
-If you have any feedback, please reach out to us at redstego@protonmail.com
+If you have any feedback, please reach out to me at redstego@protonmail.com
 
